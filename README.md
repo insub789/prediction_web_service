@@ -28,3 +28,6 @@ $ sudo python3 main.py
 * 실시간 베팅 서비스 (Proxy Server)
 * 아이템 거래 기능
 * Regional Proposal과 Classification을 순차적으로 이루기 위한 two-stage를 이용한 추천 알고리즘
+
+## 데이터 아키텍처
+<img src="static/images/data.png" height="100"></img>
